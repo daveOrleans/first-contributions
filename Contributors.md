@@ -8,6 +8,7 @@
 - [fyusuf1] (https://github.com/fyusuf1)
 Rajesh Verma
 - [sarvasvkulpati](https://github.com/sarvasvkulpati)
+- [daveOrleans](https://github.com/daveOrleans)
 - [Muhammad Fiaz Ansari](https://github.com/mfiazansari)
 - [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
